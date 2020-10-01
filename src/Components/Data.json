@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Joker",
+        "tel": "02092049201",
+        "permission": 1
+    },
+    {
+        "id":2,
+        "name":"Iron man",
+        "tel": "3425835723",
+        "permission": 2
+    },
+    {
+        "id":3,
+        "name":"Bat man",
+        "tel": "232424",
+        "permission": 3
+    },
+    {
+        "id":4,
+        "name":"Spider man",
+        "tel": "3523652356",
+        "permission": 3
+    },
+    {
+        "id":5,
+        "name":"Super man",
+        "tel": "020436461",
+        "permission": 2
+    }
+]
